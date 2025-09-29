@@ -24,6 +24,3 @@ Currently working on projects related to **secure file storage, encryption, and 
 - Email: mk2819800@gmail.com 
 
 ---
-
-### 📊 GitHub Stats  
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true)
