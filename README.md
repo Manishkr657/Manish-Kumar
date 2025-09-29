@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Manish Kumar  
 
-I’m a final year student passionate about **Cybersecurity, Rust development, and Data Science (R Programming)**.  
+I’m a Software Engineer at Nyuway and a learner who always explores for the new things.  
 Currently working on projects related to **secure file storage, encryption, and Windows applications**.  
 
 ---
