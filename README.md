@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Manish Kumar  
 
-I’m a Software Engineer at Nyuway and a learner who always explores for the new things.  
+I’m a Software Engineer at Nyuway and a learner who is always ready to explore the new things.  
 Currently working on projects related to **secure file storage, encryption, and Windows applications**.  
 
 ---
